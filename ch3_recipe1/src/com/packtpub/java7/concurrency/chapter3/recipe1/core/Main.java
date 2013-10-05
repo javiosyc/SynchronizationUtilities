@@ -28,6 +28,7 @@ public class Main {
 		for (int i=0; i<10; i++){
 			thread[i].start();
 		}
+		System.out.println("test");
 	}
 
 }
